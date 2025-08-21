@@ -1,6 +1,6 @@
 # 🏠 Home Assistant on Synology with Its Own IP (macvlan)
 
-This script automates deploying **Home Assistant** on Synology NAS with [Container Manager](https://www.synology.com/en-global/dsm/packages/ContainerManager) using a dedicated LAN IP address via `macvlan`.  
+This script automates deploying [Home Assistant](https://www.home-assistant.io/) on Synology NAS with [Container Manager](https://www.synology.com/en-global/dsm/packages/ContainerManager) using a dedicated LAN IP address via `macvlan`.  
 It also sets up a **shim interface** for communication with the host and a **systemd service** for automatic startup.
 
 ---
